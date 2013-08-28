@@ -11,7 +11,7 @@ SqlCeCmd downloaded from http://sqlcecmd.codeplex.com/
 
 You may need to download a different version to make it work on your version of windows.
 
-SqlCeCmd uses the [Microsoft Public License](LICENSE.sqlcecmd.MD)
+SqlCeCmd uses the [Microsoft Public License](LICENSE.sqlcecmd.md)
 
 ## FitBit ##
 The second part is a set of python tools that log in to the FitBit api to log the data extracted via dump-tanita.sh
